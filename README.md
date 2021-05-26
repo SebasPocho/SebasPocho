@@ -1,4 +1,7 @@
-- 👋 Hola, Soy Sebastian Horton
+# Sebastian Horton
+
+👋 Bienvenido a mi Perfil!
+
 - 👀 Estoy interesado en la Informática, la música y el Tattoo.
 - 🌱 Actualmente aprendiendo Python!!
 - 📫 Contacto: sebastian.horton@gmail.com
